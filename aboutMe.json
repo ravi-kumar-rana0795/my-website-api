@@ -1,4 +1,99 @@
 {
-    "name":"Ravi Kumar Rana",
-    "profile":"Java Full Stack Developer"
+  "summary": [
+    {
+      "text": "I'm a ",
+      "bold": false
+    },
+    {
+      "text": "results-driven Software Engineer",
+      "bold": true
+    },
+    {
+      "text": " with over ",
+      "bold": false
+    },
+    {
+      "text": "7 years of experience",
+      "bold": true
+    },
+    {
+      "text": " in backend and full-stack development, with a strong focus on ",
+      "bold": false
+    },
+    {
+      "text": "Java, Spring Boot, Microservices",
+      "bold": true
+    },
+    {
+      "text": ", and ",
+      "bold": false
+    },
+    {
+      "text": "distributed systems.",
+      "bold": true
+    }
+  ],
+  "contributions": [
+    "Bank of America (healthcare systems)",
+    "IBM Automation Platform",
+    "BlackRock Inc. (investment technology)"
+  ],
+  "specialization": [
+    {
+      "text": "high-performance, scalable",
+      "bold": true
+    },
+    {
+      "text": ", and ",
+      "bold": false
+    },
+    {
+      "text": "secure applications",
+      "bold": true
+    },
+    {
+      "text": " deployed in modern ",
+      "bold": false
+    },
+    {
+      "text": "cloud environments",
+      "bold": true
+    },
+    {
+      "text": " (AWS, Azure).",
+      "bold": false
+    }
+  ],
+  "work_style": [
+    {
+      "text": "agile teams",
+      "bold": true
+    },
+    {
+      "text": " and enjoy leading solutions that deliver real business impact.",
+      "bold": false
+    }
+  ],
+  "awards": [
+    {
+      "text": "Outstanding Quarter Performer",
+      "bold": true,
+      "description": "for exceptional project delivery"
+    },
+    {
+      "text": "Performer of the Business (POTB)",
+      "bold": true,
+      "description": "for driving impactful business outcomes"
+    },
+    {
+      "text": "On the Spot Award",
+      "bold": true,
+      "description": "for swift and effective problem-solving"
+    },
+    {
+      "text": "Technical Excellence Award",
+      "bold": true,
+      "description": "for demonstrating strong technical expertise and innovation across projects"
+    }
+  ]
 }
